@@ -58,7 +58,66 @@ Finally, verify the new endpoint is working by trying it out by going to the `/d
 
 🚀 Congratulations, through the exercise, you haven't only used copilot to generate code but also done it in an interactive and fun way! You can use GitHub Copilot to not only generate code, but write documentation, test your applications and more.
 
+# Getting Started
 
+Follow these steps to run this project locally:
+
+## Prerequisites
+
+- Ensure you have [Node.js](https://nodejs.org/) (version X.X.X or higher) installed.
+- Install [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) as your package manager.
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/your-repo.git
+    cd your-repo
+    ```
+
+2. Install dependencies:
+    ```sh
+    npm install
+    # or
+    yarn install
+    ```
+
+## Running the Project
+
+- To start the development server:
+  ```sh
+  npm start
+  # or
+  yarn start
+  ```
+
+- The application will be available at `http://localhost:3000` by default.
+
+## Building for Production
+
+- To create a production build:
+  ```sh
+  npm run build
+  # or
+  yarn build
+  ```
+
+## Additional Scripts
+
+- Run tests:
+  ```sh
+  npm test
+  # or
+  yarn test
+  ```
+
+## Troubleshooting
+
+- If you encounter issues, ensure all dependencies are installed and your Node.js version matches the required version.
+- Refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for more development guidelines.
+
+---
+For more details, see the project documentation or contact the maintainers.
 
 # Legal Notices
 
